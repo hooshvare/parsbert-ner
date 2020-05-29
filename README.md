@@ -82,6 +82,9 @@ The following table summarizes the F1 score obtained by ParsBERT as compared to 
 
 
 ## How to use :hugs:
+| Notebook     |      Description      |   |
+|:----------|:-------------|------:|
+| [How to use Pipelines](https://github.com/hooshvare/parsbert-ner/blob/master/persian-ner-pipeline.ipynb)  | Simple and efficient way to use State-of-the-Art models on downstream tasks through transformers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert-ner/blob/master/persian-ner-pipeline.ipynb) |
 
 
 ## Cite 
