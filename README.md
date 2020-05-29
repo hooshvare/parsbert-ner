@@ -81,9 +81,7 @@ The following table summarizes the F1 score obtained by ParsBERT as compared to 
 |  ARMAN          |   93.10* |    89.9    |      84.03     |    86.55   |         -        |     77.45    |
 
 
-## How to use
-
-Check out [here]!
+## How to use :hugs:
 
 
 ## Cite 
