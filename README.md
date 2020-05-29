@@ -39,7 +39,7 @@ PEYMA dataset includes 7,145 sentences with a total of 302,530 tokens from which
 
 
 **Download**
-You can download the dataset from [here](https://github.com/HaniehP/PersianNER)
+You can download the dataset from [here](http://nsurl.org/tasks/task-7-named-entity-recognition-ner-for-farsi/)
 
 ---
 
@@ -67,7 +67,8 @@ ARMAN dataset holds 7,682 sentences with 250,015 sentences tagged over six diffe
 
 
 **Download**
-You can download the dataset from [here](http://nsurl.org/tasks/task-7-named-entity-recognition-ner-for-farsi/)
+You can download the dataset from [here](https://github.com/HaniehP/PersianNER)
+
 
 
 ## Results
