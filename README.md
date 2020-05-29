@@ -120,4 +120,4 @@ We hereby, express our gratitude to the [Tensorflow Research Cloud (TFRC) progra
 ## Releases
 
 ### Release v0.1 (May 29, 2019)
-This is the first version of our ParsBERT based on BERT<sub>BASE</sub>
+This is the first version of our ParsBERT NER!
