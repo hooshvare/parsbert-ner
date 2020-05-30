@@ -75,10 +75,11 @@ You can download the dataset from [here](https://github.com/HaniehP/PersianNER)
 
 The following table summarizes the F1 score obtained by ParsBERT as compared to other models and architectures.
 
-| Dataset | ParsBERT |  mBERT   | MorphoBERT |  Beheshti-NER  |  LSTM-CRF  |  Rule-Based CRF  |  BiLSTM-CRF  |
-|:-------:|:--------:|:--------:|:----------:|:--------------:|:----------:|:----------------:|:------------:|
-|  PEYMA  |   93.10* |   86.64  |      -     |      90.59     |      -     |       84.00      |       -      |
-|  ARMAN  |   98.79* |   95.89  |    89.9    |      84.03     |    86.55   |         -        |     77.45    |
+| Dataset         | ParsBERT |  mBERT   |  MorphoBERT |  Beheshti-NER  |  LSTM-CRF  |  Rule-Based CRF  |  BiLSTM-CRF  |
+|:---------------:|:--------:|:--------:|:-----------:|:--------------:|:----------:|:----------------:|:------------:|
+|  ARMAN + PEYMA  |   95.13* |      -   |      -      |        -       |      -     |         -        |       -      |
+|  PEYMA          |   93.10* |   86.64  |      -      |      90.59     |      -     |       84.00      |       -      |
+|  ARMAN          |   98.79* |   95.89  |    89.9     |      84.03     |    86.55   |         -        |     77.45    |
 
 
 ## How to use :hugs:
