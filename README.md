@@ -1,10 +1,8 @@
 ## ParsBERT: Transformer-based Model for Persian Language Understanding
 
-ParsBERT is a monolingual language model based on Google’s BERT architecture with the same configurations as BERT-Base. 
+ParsBERT is a monolingual language model based on Google’s BERT architecture. This model is pre-trained on large Persian corpora with various writing styles from numerous subjects (e.g., scientific, novels, news) with more than `3.9M` documents, `73M` sentences, and `1.3B` words. 
 
 Paper presenting ParsBERT: [arXiv:2005.12515](https://arxiv.org/abs/2005.12515)
-
-All the models (downstream tasks) are uncased and trained with whole word masking. (coming soon stay tuned)
 
 
 ## Persian NER [ARMAN, PEYMA, ARMAN+PEYMA]
